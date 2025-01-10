@@ -2,6 +2,7 @@
 name = "axhid"
 version = "0.1.0"
 edition = "2021"
+authors = ["dbydd <dbydd@outlook.com>"]
 
 [dependencies]
 hidreport = { git = "https://github.com/dbydd/hidreport-nostd.git" }
