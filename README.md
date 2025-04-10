@@ -1,6 +1,4 @@
-# rehid
-
-Redox HID parsing library
-
 # axhid
 patched rehid
+
+* rehid is HID parsing library of Redox OS

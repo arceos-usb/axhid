@@ -3,6 +3,10 @@ name = "axhid"
 version = "0.1.0"
 edition = "2021"
 authors = ["dbydd <dbydd@outlook.com>"]
+description = "A no-std USB HID Report Parser, inspired by rehid"
+repository = "https://github.com/arceos-usb/axhid"
+categories = ["embedded","encoding"]
+keywords = ["usb","no_std","hid","descriptor"]
 
 [dependencies]
 hidreport = { git = "https://github.com/dbydd/hidreport-nostd.git" }
